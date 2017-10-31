@@ -1,3 +1,3 @@
 # Frequency-meter
-Frequency meter - Xampaperz
+Frequency mseter - Xampapersz
 s
